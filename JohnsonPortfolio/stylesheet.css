@@ -1,0 +1,70 @@
+header {
+  font-size: 80px;
+  font-family: Black Han Sans, sans-serif;
+  color: cyan;
+  text-align: center;
+  background-image: url("https://dw8stlw9qt0iz.cloudfront.net/jotZHd46M5S9Nb-QueVZLezY8Fw=/fit-in/1040x585/filters:format(jpeg):quality(75)/curiosity-data.s3.amazonaws.com/images/content/landscape/standard/f1ffca0c-f55f-4042-b6f6-73bb6647bc6a.png");
+}
+h1 {
+  font-size: 18px;
+  color: black;
+  text-align: right;
+  top: 30;
+  right: 30;
+}
+h2 {
+  font-size: 30px;  
+}
+h3 {
+  font-size: 25px;
+}
+p {
+  font-size: 20px;
+}
+h1, h2, h3, h4, p, ul, ol, nav, a {
+  font-family: Indie Flower, cursive;
+}
+ul, ol {
+  font-size: 18px;	
+}
+.michigan {
+  display: inline;
+  width: 30%;
+  border-radius: 20px;
+  box-shadow: 10px 10px #000000;
+  margin: 20px 20px 20px 20px;
+}
+.gary {
+  display: inline;
+  width: 23%;
+  border-radius: 20px;
+  box-shadow: 10px 10px #000000;
+  margin: 20px 20px 20px 20px;
+}
+.king {
+  display: inline;
+  width: 29%;
+  border-radius: 20px;
+  box-shadow: 10px 10px #FF0000;
+  margin: 20px 20px 20px 20px;
+}
+textarea {
+  display: inline-block;
+  width: 40%;
+}
+a:hover {
+  color: blue;	
+}
+.form {
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  border: 5px solid black;
+}
+.textbox {
+  margin: auto;	
+}
+.container > div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
